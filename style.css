@@ -1,0 +1,10 @@
+html{
+    background-color:darkgrey;
+}
+div{
+    background-color:whitesmoke;
+    width:30%;
+    height:200px;
+    margin:5px;
+    display:inline-block;
+}
